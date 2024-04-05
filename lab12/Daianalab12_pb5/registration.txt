@@ -1,0 +1,7 @@
+
+Name: 123
+ , Group: 12
+ , Course: SE
+Name: 123
+ , Group: 21
+ , Course: FEC
